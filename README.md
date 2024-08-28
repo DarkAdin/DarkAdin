@@ -36,6 +36,9 @@ I am **Adán Somoza López**:
 * Experienced in a diverse number of classifiers and regressors, dimensionality reduction, data clustering
 * Experienced in machine learning techniques and implementation of machine learning algorithms
 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A1n-somoza-l%C3%B3pez-822736321/)
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=DarkAdin&label=Profile%20views&color=0e75b6&style=flat" alt="DarkAdin" /> 
 </p>

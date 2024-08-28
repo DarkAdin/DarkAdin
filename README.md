@@ -32,3 +32,7 @@ I am **Adán Somoza López**:
 * I have more than 7 years of experience with the **GNU/Linux** environment
 * Intermediate experience in **SQLite**
 * Intermediate experience in **C**
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=DarkAdin&label=Profile%20views&color=0e75b6&style=flat" alt="DarkAdin" /> 
+</p>

@@ -8,6 +8,14 @@ I am **Adán Somoza López**:
 
 ## Technical skills
 
+* Very proficient in **Python**
+* Very proficient in **R**
+* More than 7 years of experience with the **GNU/Linux** environment
+* Intermediate experience in **SQLite**
+* Intermediate experience in **C**
+* Experienced in a diverse number of classifiers and regressors, dimensionality reduction, data clustering
+* Experienced in machine learning techniques and implementation of machine learning algorithms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
   <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=000000" alt="R"/>
@@ -27,14 +35,6 @@ I am **Adán Somoza López**:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000" alt="Keras"/>
 </p>
-
-* Very proficient in **Python**
-* Very proficient in **R**
-* More than 7 years of experience with the **GNU/Linux** environment
-* Intermediate experience in **SQLite**
-* Intermediate experience in **C**
-* Experienced in a diverse number of classifiers and regressors, dimensionality reduction, data clustering
-* Experienced in machine learning techniques and implementation of machine learning algorithms
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A1n-somoza-l%C3%B3pez-822736321/)

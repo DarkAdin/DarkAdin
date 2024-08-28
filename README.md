@@ -10,6 +10,8 @@ I am **Adán Somoza López**:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=000000" alt="R"/>
+  <img src="https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=rmarkdown&logoColor=white&labelColor=000000" alt="RMarkdown"/>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=000000" alt="C"/>
   <img src="https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=bash&logoColor=white&labelColor=000000" alt="Bash"/>
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" alt="Linux"/>

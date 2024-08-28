@@ -1,3 +1,13 @@
-# Adán Somoza López
+## Hello!
 
-Hi! I'm Adán Somoza López, a laboratory technician, biologist and bioinformatician with a strong background in microbiology, molecular biology and genomics, with a very extensive history in data science.
+I am **Adán Somoza López**:
+
+* **Laboratory technician** with a strong background in Microbiology
+* **Biologist** 🌱 specialized in genomics and molecular biology
+* **Bioinformatician** 💻
+
+* Very proficient in **Python**
+* Very proficient in **R**
+* I have more than 7 years of experience with the **GNU/Linux** environment
+* Intermediate experience in **SQLite**
+* Intermediate experience in **C**

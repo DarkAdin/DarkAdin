@@ -11,9 +11,9 @@ I am **Adán Somoza López**:
 * Very proficient in **Python**
 * Very proficient in **R**
 * Very proficient in **Bash/POSIX**
+* Proficient in **C**
 * More than 7 years of experience in the **GNU/Linux** environment
 * Intermediate experience in **SQLite**
-* Intermediate experience in **C**
 * Experienced in a diverse number of classifiers and regressors, dimensionality reduction, data clustering, data forecasting
 * Experienced in machine learning techniques and implementation of machine learning algorithms
 
@@ -37,6 +37,7 @@ I am **Adán Somoza López**:
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NetworkX-Blue?style=for-the-badge&logo=networkx&logoColor=white&labelColor=000000" alt="NetworkX"/>
 </p>
 
 ## Contact

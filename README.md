@@ -2,9 +2,9 @@
 
 I am **Adán Somoza López**:
 
-* 🔬 **Laboratory technician** with a strong background in Microbiology
-* 🌱 **Biologist** specialized in genomics and molecular biology
 * 💻 **Bioinformatician**
+* 🌱 **Biologist** specialized in genomics and molecular biology
+* 🔬 **Laboratory technician** with a strong background in Microbiology
 
 ## Technical skills
 

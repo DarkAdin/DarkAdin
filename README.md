@@ -8,12 +8,12 @@ I am **Adán Somoza López**:
 
 ## Technical skills
 
+* More than 7 years of experience in the **GNU/Linux** environment
 * Very proficient in **Python**
 * Very proficient in **R**
 * Very proficient in **Bash/POSIX**
 * Proficient in **C**
-* More than 7 years of experience in the **GNU/Linux** environment
-* Intermediate experience in **SQLite**
+* Experienced in **SQL**
 * Experienced in a diverse number of classifiers and regressors, dimensionality reduction, data clustering, data forecasting
 * Experienced in machine learning techniques and implementation of machine learning algorithms
 

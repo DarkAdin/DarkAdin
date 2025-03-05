@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am **Adán Somoza López**:
+I am **Adán**:
 
 * 💻 **Bioinformatician**
 * 🌱 **Biologist** specialized in genomics and molecular biology

@@ -4,7 +4,7 @@ I am **Adán**:
 
 * 💻 **Bioinformatician**
 * 🌱 **Biologist** specialized in genomics and molecular biology
-* 🔬 **Laboratory technician** with a strong background in Microbiology
+* 🔬 **Laboratory technician** with a strong background in clinical Microbiology and clinical laboratory
 
 ## Technical skills
 
@@ -38,6 +38,7 @@ I am **Adán**:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000" alt="Keras"/>
   <img src="https://img.shields.io/badge/NetworkX-Blue?style=for-the-badge&logo=networkx&logoColor=white&labelColor=000000" alt="NetworkX"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white&labelColor=000000" alt="Docker"/>
 </p>
 
 ## Contact
